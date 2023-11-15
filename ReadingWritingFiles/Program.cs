@@ -10,6 +10,11 @@ namespace ReadingWritingFiles
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Reading / Writing Files");
+            Console.WriteLine();
+
+            Console.WriteLine("Press any key to exit the program");
+            Console.ReadKey(true);
         }
     }
 }
